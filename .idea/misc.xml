@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="GoogleJavaFormatSettings">
+    <option name="enabled" value="true" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/uzduotis/ArrayList_praktiniai/AL_16.Sum/pom.xml" />
+        <option value="$PROJECT_DIR$/uzduotis/ArrayList_praktiniai/AL_10.IndexOf/pom.xml" />
+        <option value="$PROJECT_DIR$/uzduotis/ArrayList_praktiniai/AL_04.ListSize/pom.xml" />
+        <option value="$PROJECT_DIR$/uzduotis/ArrayList_praktiniai/AL_14.OnTheList/pom.xml" />
+        <option value="$PROJECT_DIR$/uzduotis/ArrayList_praktiniai/AL_05.LastInList/pom.xml" />
+        <option value="$PROJECT_DIR$/uzduotis/ArrayList_praktiniai/AL_12.SumOfAList/pom.xml" />
+        <option value="$PROJECT_DIR$/uzduotis/ArrayList_praktiniai/AL_17.RemoveLast/pom.xml" />
+        <option value="$PROJECT_DIR$/uzduotis/ArrayList_praktiniai/AL_01.ThirdElement/pom.xml" />
+        <option value="$PROJECT_DIR$/uzduotis/ArrayList_praktiniai/AL_06.FirstAndLast/pom.xml" />
+        <option value="$PROJECT_DIR$/uzduotis/ArrayList_praktiniai/AL_15.PrintInRange/pom.xml" />
+        <option value="$PROJECT_DIR$/uzduotis/ArrayList_praktiniai/AL_09.GreatestInList/pom.xml" />
+        <option value="$PROJECT_DIR$/uzduotis/ArrayList_praktiniai/AL_13.AverageOfAList/pom.xml" />
+        <option value="$PROJECT_DIR$/uzduotis/ArrayList_praktiniai/AL_02.SecondPlusThird/pom.xml" />
+        <option value="$PROJECT_DIR$/uzduotis/ArrayList_praktiniai/AL_11.IndexOfSmallest/pom.xml" />
+        <option value="$PROJECT_DIR$/uzduotis/ArrayList_praktiniai/AL_08.OnlyTheseNumbers/pom.xml" />
+        <option value="$PROJECT_DIR$/uzduotis/ArrayList_praktiniai/AL_07.RememberTheseNumbers/pom.xml" />
+        <option value="$PROJECT_DIR$/uzduotis/ArrayList_praktiniai/AL_03.IndexOutOfBoundsException/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_23" default="true" project-jdk-name="23" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
