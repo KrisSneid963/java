@@ -1,0 +1,21 @@
+public abstract class Animal {
+    private String name;
+
+    public Animal(String name) {
+        this.name = name;
+    }
+
+    public String getName() {
+        return this.name;
+    }
+
+    public void sleep() {
+        System.out.println(this.name + "sleep");
+    }
+
+    public void eat() {
+        System.out.println(this.name + " eats");
+    }
+}
+
+//void when printing/doesn't give any value. We may put public abstract void sleep();
