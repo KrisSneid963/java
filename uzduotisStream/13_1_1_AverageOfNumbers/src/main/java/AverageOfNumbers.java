@@ -11,7 +11,7 @@ public class AverageOfNumbers {
 
         List<Double> numbers = scanner.tokens()
                 .takeWhile(input -> !input.equalsIgnoreCase("end"))
-                .map(Double::parseDouble) // Parse input into Double
+                .map(Double::parseDouble)
                 .toList();
 
 
@@ -20,7 +20,7 @@ public class AverageOfNumbers {
                 .average()
                 .orElse(Double.NaN);
 
-      
+
         System.out.println("average of the numbers: " + average);
     }
 }
