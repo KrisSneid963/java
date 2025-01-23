@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="13_1_3_PositiveNumbers" />
+        <module name="13_1_5_PrintingUserInput" />
+        <module name="13_1_7_UniqueLastNames" />
+        <module name="13_1_4_Divisible" />
+        <module name="13_1_6_LimitedNumbers" />
+        <module name="13_1_2_AverageOfSelectedNumbers" />
+        <module name="13_1_1_AverageOfNumbers" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

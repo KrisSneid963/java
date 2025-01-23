@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="GoogleJavaFormatSettings">
+    <option name="enabled" value="true" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/uzduotisStream/13_1_4_Divisible/pom.xml" />
+        <option value="$PROJECT_DIR$/uzduotisStream/13_1_6_LimitedNumbers/pom.xml" />
+        <option value="$PROJECT_DIR$/uzduotisStream/13_1_3_PositiveNumbers/pom.xml" />
+        <option value="$PROJECT_DIR$/uzduotisStream/13_1_7_UniqueLastNames/pom.xml" />
+        <option value="$PROJECT_DIR$/uzduotisStream/13_1_1_AverageOfNumbers/pom.xml" />
+        <option value="$PROJECT_DIR$/uzduotisStream/13_1_5_PrintingUserInput/pom.xml" />
+        <option value="$PROJECT_DIR$/uzduotisStream/13_1_2_AverageOfSelectedNumbers/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_23" default="true" project-jdk-name="23" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
