@@ -17,6 +17,6 @@ public class SavingsAccount extends Account {
     public String toString() {
         return "Savings Account Details:\n" +
                 super.toString() +
-                "\nNote: Savings accounts cannot be overdrawn.";
+                "\nSavings accounts cannot be overdrawn.";
     }
 }
